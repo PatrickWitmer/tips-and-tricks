@@ -10,5 +10,5 @@ Change the volume of bandcamp in the dev tools console, via the DOM:
 
 Converts a Word docx into Markdown with pandoc
 
-`brew install pandoc`
+`brew install pandoc`  
 `pandoc -f docx -t markdown foo.docx -o foo.markdown`
