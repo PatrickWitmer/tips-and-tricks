@@ -1,6 +1,4 @@
-# tips-and-tricks
-Tips and Tricks
-
+# Tips and Tricks and Resources
 
 Change the volume of bandcamp in the dev tools console, via the DOM:
 
